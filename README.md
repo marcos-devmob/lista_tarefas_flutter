@@ -13,7 +13,7 @@ Este é um aplicativo simples de **Lista de Tarefas** feito em **Flutter**, que 
 
 ## 📱 Tela do App
 
-![Tela do App](<img width="720" height="1280" alt="Screenshot_20251003_214326" src="https://github.com/user-attachments/assets/70c315f3-759f-4cfe-8461-20aa390e142c" />)! 
+<img width="720" height="1280" alt="Screenshot_20251003_214326" src="https://github.com/user-attachments/assets/70c315f3-759f-4cfe-8461-20aa390e142c" /> 
 
 <img width="720" height="1280" alt="Screenshot_20251003_214507" src="https://github.com/user-attachments/assets/6f876810-4649-4578-9dc1-886542e219c4" />
 
